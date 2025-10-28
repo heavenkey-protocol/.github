@@ -1,17 +1,30 @@
-# 💠 Heavenkey Protocol
+**Heavenkey** was born from a simple idea:  
+that what we build, create, and value in the digital world  
+should not fade — it should continue to mean something.  
 
-**Heavenkey** is a decentralized, non-custodial inheritance protocol built on Ethereum.  
-It ensures digital continuity and ethical fund redistribution through privacy-preserving smart contracts.
+Through Ethereum, Heavenkey transforms our presence online  
+into a living bridge between intention and legacy.  
+It protects what we create, and lets our values outlive time —  
+carrying forward trust, memory, and purpose.  
 
-> “Your digital assets should never die with you — they should continue your legacy.”
-
-📦 **Main Repository:**  
-[heavenkey-sepolia-deployment](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment)
+> “Heavenkey is not about what ends — it’s about what continues.”  
 
 🌐 **Network:** Ethereum Sepolia Testnet (EVM)  
-📄 **Documentation:** Available inside `/docs`  
-📜 **License & Proofs:** Available inside `/license`
+📦 **Main Repository:** [heavenkey-sepolia-deployment](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment)  
+📄 **Documentation:** `/docs`  
+📜 **License & Proofs:** `/license`  
 
 ---
 
-Heavenkey © 2025 — Built for Ethereum, guided by ethics.
+Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.
+
+
+
+
+
+
+
+
+
+
+
