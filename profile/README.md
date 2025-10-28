@@ -24,11 +24,3 @@ It’s where technology serves meaning — and meaning survives through technolo
 
 Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.  
 *An open journey toward digital presence with meaning.*
-
-
-
-
-
-
-
-
