@@ -27,22 +27,27 @@
 
 ### 🌿 About
 
-Heavenkey is a decentralized protocol that protects digital continuity.  
-It ensures that what we build online — our creations, values, and commitments —  
-remains meaningful and traceable over time.  
+Heavenkey is a decentralized protocol designed to protect the **continuity of what has been built**.  
+It ensures that every creation, decision, and intention we leave in the digital world  
+can follow its natural course — executed faithfully, securely, and with dignity.  
 
-Heavenkey doesn’t seek to store wealth.  
-It safeguards purpose, transforming dormant capital into new opportunities  
-for those we trust and for the public good.
+At its heart lies the **Heavenkey EFM™ – Ethical Fallback Mechanism**:  
+a self-executing path that honors the creator’s will when human presence is no longer active.  
+If no one steps forward to continue, the protocol itself fulfills that final act of coherence —  
+transforming what remains into purpose, preserving the spirit of the origin.  
+
+Heavenkey does not ask for control — it restores meaning.  
+It does not store wealth — it protects intent.  
+It does not end — it continues.
 
 ---
 
-### ✨ What it embodies
+### ✨ Core Principles
 
 - **Continuity with care** — Every plan is a quiet promise that keeps value alive.  
 - **Privacy-first** — Heirs and data remain off-chain, encrypted, and protected.  
-- **Autonomy** — Fully non-custodial and automated on Ethereum.  
-- **Ethical fallback** — Unclaimed value sustains education, open research, and public goods.  
+- **Autonomy** — Fully non-custodial and automated through Ethereum’s logic.  
+- **Ethical Fallback Mechanism (Heavenkey EFM™)** — Ensures that every unclaimed legacy completes its journey according to the owner’s declared intent.
 
 ---
 
@@ -57,6 +62,9 @@ for those we trust and for the public good.
 ---
 
 <p align="center">
-  <em>Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.</em><br/>
+  <em>
+    Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.<br/>
+    Heavenkey EFM™ — The Ethical Fallback Mechanism that transforms code into coherence.
+  </em><br/>
   <a href="mailto:info@francescoventura.it">info@francescoventura.it</a>
 </p>
