@@ -1,30 +1,26 @@
-**Heavenkey** was born from a simple idea:  
-that what we build, create, and value in the digital world  
-should not fade — it should continue to mean something.  
+# 💠 Heavenkey Protocol
 
-Through Ethereum, Heavenkey transforms our presence online  
-into a living bridge between intention and legacy.  
-It protects what we create, and lets our values outlive time —  
-carrying forward trust, memory, and purpose.  
+**Heavenkey** is not just a protocol — it’s a statement of trust.  
+A bridge between our digital life and the values we choose to leave behind.
 
-> “Heavenkey is not about what ends — it’s about what continues.”  
+In a world where everything moves fast and disappears even faster,  
+Heavenkey believes that what we create — our actions, our intent, our kindness —  
+deserves to keep resonating beyond the present moment.  
 
-🌐 **Network:** Ethereum Sepolia Testnet (EVM)  
-📦 **Main Repository:** [heavenkey-sepolia-deployment](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment)  
-📄 **Documentation:** `/docs`  
-📜 **License & Proofs:** `/license`  
+Built on Ethereum, Heavenkey weaves automation, privacy, and ethics  
+into a single, enduring language of continuity.  
+It’s where technology serves meaning — and meaning survives through technology.  
+
+> “Heavenkey is not about endings. It’s about the continuation of what truly matters.”
 
 ---
 
-Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.
+🌐 **Network:** Ethereum Sepolia Testnet (EVM)  
+📦 **Main Repository:** [heavenkey-sepolia-deployment](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment)  
+📄 **Documentation:** [/docs](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/docs)  
+📜 **License & Proofs:** [/license](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/license)  
 
+---
 
-
-
-
-
-
-
-
-
-
+Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.  
+*An open journey toward digital presence with meaning.*
