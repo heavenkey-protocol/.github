@@ -1,4 +1,4 @@
-# 💠 Heavenkey Protocol
+ # 💠 Heavenkey Protocol
 
 **Heavenkey** is not just a protocol — it’s a statement of trust.  
 A bridge between our digital life and the values we choose to leave behind.
