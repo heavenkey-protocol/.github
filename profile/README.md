@@ -17,16 +17,6 @@ carrying forward trust, memory, and purpose.
 ---
 
 Heavenkey © 2025 — Built for Ethereum, guided by ethics and continuity.
-✨ Tono:
-
-più poetico,
-
-centrato su “continuità e valore umano”,
-
-comunica fiducia e visione, non tecnologia o morte.
-
-Vuoi che lo adatti ancora di più allo stile storytelling empatico (come un manifesto breve, tipo “We believe that…” → per GitHub e per i grant)?
-Posso farti una versione “manifesto Heavenkey” di 6 righe che funziona sia su GitHub che in pitch e presentazioni.
 
 
 
