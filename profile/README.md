@@ -56,8 +56,7 @@ It does not end — it continues.
 | Section | Description |
 |:--------|:-------------|
 | 🎥 Video Demo | <a href="https://www.youtube.com/watch?v=8klk00hAJpU" target="_blank" rel="noopener noreferrer">High-level overview of Heavenkey</a> |
-👉 **[How Heavenkey Works: Inactivity Detection, Heirs & Ethical Fallback](https://youtu.be/-REqYIi6GVI)**
-
+| 🎥 Video Demo – Technical | <a href="https://youtu.be/-REqYIi6GVI" target="_blank" rel="noopener noreferrer">How Heavenkey works: inactivity detection, heirs & ethical fallback</a> |
 | [Main Repository](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment) | Core contracts and deployment files |
 | [Documentation](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/docs) | Whitepaper, reports, and roadmap |
 | [License & Proofs](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/license) | Legal framework and authorship validation |
