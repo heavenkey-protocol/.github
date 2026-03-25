@@ -39,7 +39,7 @@ transforming what remains into purpose, preserving the spirit of the origin.
 Heavenkey does not ask for control — it restores meaning.  
 It does not store wealth — it protects intent.  
 It does not end — it continues.
-
+Official Giveth project page: https://giveth.io/project/heavenkey-digital-will-automation-ethical-fallback
 ---
 
 ### ✨ Core Principles
