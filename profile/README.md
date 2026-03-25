@@ -60,7 +60,7 @@ It does not end — it continues.
 | [Main Repository](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment) | Core contracts and deployment files |
 | [Documentation](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/docs) | Whitepaper, reports, and roadmap |
 | [License & Proofs](https://github.com/heavenkey-protocol/heavenkey-sepolia-deployment/tree/main/license) | Legal framework and authorship validation |
-
+| [Official Giveth Project Page](https://giveth.io/project/heavenkey-digital-will-automation-ethical-fallback) | Official Heavenkey project page on Giveth for the Ethereum Security QF Round |
 ---
 
 <p align="center">
